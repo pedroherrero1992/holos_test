@@ -21,7 +21,9 @@ el back debe estar en el puerto 3000 y el front en el puerto 4200
 
 
 El front contiene un pequeño tutorial en video para mostrar la funcionalidad en la parte de usuarios nada del otro mundo.
-
+levantar el back
+  
+$npx nodemon conn.js  
 
 la api del back funciona con con las siguientes rutas:
 
