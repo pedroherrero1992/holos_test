@@ -25,8 +25,8 @@ El front contiene un pequeño tutorial en video para mostrar la funcionalidad en
 
 la api del back funciona con con las siguientes rutas:
 
-POST http://localhost:3000/mutant/:cadena_dna
-GET http://localhost:3000/stats
-GET http://localhost:3000/getUsersList
-POST http://localhost:3000/create/:cadena_user&&&pass
-POST http://localhost:3000/delete/:id_user
+POST http://localhost:3000/mutant/:cadena_dna  
+GET http://localhost:3000/stats  
+GET http://localhost:3000/getUsersList  
+POST http://localhost:3000/create/:cadena_user&&&pass  
+POST http://localhost:3000/delete/:id_user  
